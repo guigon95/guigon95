@@ -75,6 +75,14 @@
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 
 
+<h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
+
+[![Linkedin: GuilhermeGonçalves](https://img.shields.io/badge/-guilhermegon-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilhermegon95/)](https://www.linkedin.com/in/guilhermeogon95/)
+
+
+<h3> 👀 &nbsp;Que tal me seguir?: </h3> 
+
+[![GitHub Guigon95](https://img.shields.io/github/followers/guigon95?label=follow&style=social)](https://github.com/guigon95)
 
 
 <!--
