@@ -75,9 +75,6 @@
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=guigon95&show_icons=true&include_all_commits=true&count_private=true&layout=compact" alt="GitHub Stats for MishManners" width="700">
-
-
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
 [![Linkedin: GuilhermeGonçalves](https://img.shields.io/badge/-GuilhermeGoncalves-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilhermegon95/)](https://www.linkedin.com/in/guilhermegon95/)
