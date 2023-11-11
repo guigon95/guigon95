@@ -77,7 +77,7 @@
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Linkedin: GuilhermeGonçalves](https://img.shields.io/badge/-guilhermegon-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilhermegon95/)](https://www.linkedin.com/in/guilhermeogon95/)
+[![Linkedin: GuilhermeGonçalves](https://img.shields.io/badge/-GuilhermeGoncalves-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilhermegon95/)](https://www.linkedin.com/in/guilhermegon95/)
 
 
 <h3> 👀 &nbsp;Que tal me seguir?: </h3> 
