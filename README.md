@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=guigon95&color=006bed)
+
 ### Hi there 👋
 
 <h3> &nbsp;Sobre mim </h3>
